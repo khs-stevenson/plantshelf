@@ -14,37 +14,33 @@ ____
 ### VisualCode | Pulling from GitHub  
 - [ ] Open VisualCode, and open your home folder (File > Open Folder).  
 - [ ] Open the terminal view (Terminal > New Terminal) and open a (wsl/gitbash? **TODO** check what's available) terminal.  
-- [ ] Create local version of your PlantShelf copy: (**TODO** command details).  
+- [ ] Create local version of your PlantShelf copy: (**TODO** command details). 
+    `git clone git@github.com:<your_github_username>/plantshelf.git `   
 - [ ] Open the new local version (File > Open Folder > select plantshelf).
 
 ### VisualCode | Pushing to GitHub  
 - [ ] Find the README.md file in the tree folder (View > Open View... > Folders), and put an `x` into the checkboxes (`[ ]`) you've completed.
 
-In your (**TODO** wsl/gitbash) terminal:  
+In your git bash terminal:  
+#### setup  
+Configure commit messages:  
 - [ ] `git config --global user.name "Your Name"`  
 - [ ] `git config --global user.email "your@email.com"`  
-- [ ] `git status`  
+Set up keys (**TODO**):  
+    $ ssh-keygen -t ed25519 -C "your_email@example.com"  
+    $ eval "$(ssh-agent -s)"  
+    Agent pid 1174  
+    $ ssh-add  
 
+**TODO screenshots** add new key in GitHub settings.  
 
-
+Back in your git bash terminal:  
 - [ ] `git add README.md`  
-- [ ] `git status`  
 - [ ] `git commit -m "Updated the readme"`  
-- [ ] `git status`  
-- [ ] `git branch -M main  `  
-
-#### keys (**TODO**)
-$ ssh-keygen -t ed25519 -C "your_email@example.com"  
-
-$ eval "$(ssh-agent -s)"  
-Agent pid 1174  
-
-$ ssh-add
-
 - [ ] `git branch -M main  `  
 - [ ] `git remote add origin git@github.com:<your_github_username>/plantshelf.git`  
 - [ ] `git push`  
-- [ ] `git status`  
+
 - [ ] Refresh your plantshelf fork on GitHub. You should see your checked items in the README.
 
 ### VisualCode | Changing the HTML  
