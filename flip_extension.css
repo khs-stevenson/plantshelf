@@ -49,13 +49,12 @@
 /* Cards start out front-up and flip when the user hovers */
 .card {
   transform-style: preserve-3d;
-  /* transform: skewX(10deg); */
-  transform: rotateY(0deg);
-  /* transform: rotateY(180deg); */
+  /* TODO: modify the following line to flip the card */
+  transform: skewX(10deg);
   transition: transform 0.8s;
 }
 
 .card:hover {
-  /* transform: skewX(10deg); */
-  transform: rotateY(180deg);
+  /* TODO: modify the following line to flip the card */
+  transform: skewX(10deg);
 }
