@@ -5,6 +5,4 @@ In these 2 lessons, you will:
 * Learn to use GitHub and git to back up and version-control your code.  
 
 
-[Plant image cards on the PlantShelf webpage](/documentation/plantshelf1.png "Plant image cards")
-
-[Plant image cards on the PlantShelf webpage, with one card flipped to show the care information on  the back](/documentation/plantsheelf2.png "Care information on the back of a card")
+[Plant image cards on the PlantShelf webpage](/documentation/plantshelf.png "Plant image cards (left), and the image cards again with one flipped to show the back (right)")
