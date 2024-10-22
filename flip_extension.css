@@ -50,11 +50,13 @@
 .card {
   transform-style: preserve-3d;
   /* TODO: modify the following line to flip the card */
-  transform: skewX(10deg);
+  /* transform: skewX(10deg); */
+  transform: rotateY(0deg);
   transition: transform 0.8s;
 }
 
 .card:hover {
   /* TODO: modify the following line to flip the card */
-  transform: skewX(10deg);
+  /* transform: skewX(10deg); */
+  transform: rotateY(180deg);
 }
