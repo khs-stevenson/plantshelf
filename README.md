@@ -39,3 +39,8 @@ GitHub is a website which stores files and all their past versions. The files fo
 #### Visual Studio Code │ Live Server extension
 * Search and install the Live Server extension (View > Open View... Extensions).  
 * Inside your index.html, right click and select "Open with Live Server". A new browser tab should open with your page, and will automatically reload whenever you save a change to the html or css (so you no longer have to refresh!)  
+
+
+
+
+
