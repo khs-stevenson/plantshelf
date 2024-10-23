@@ -14,20 +14,20 @@ In these 2 lessons, you will:
 ## Instructions
 ## **⯈Part A** GitHub and HTML
 ### GitHub │ Forking a repository
-GitHub is a website which stores files and all their past versions. The files for the PlantShelf webpage (including this README!) is stored in a folder (or *repository*) on GitHub. Your first step is to make your own copy of this folder on GitHub.
+GitHub is a website which stores files—all their past versions. The files for the PlantShelf webpage (including this README!) are stored in a folder (or *repository*) on GitHub. Your first step is to make your own copy (or *fork*) of this folder on GitHub.
 
 - [ ] Go to [GitHub.com](https://github.com/signup) and create a free account (or login if you already have one).  
-- [ ] Go to [the PlantShelf repository](https://github.com/S-Mangan/plantshelf) and click Fork to create your own copy.
+![Screenshot of signup](/documentation/github_fork.png "Screenshot of signup")
 
-**TODO**
+- [ ] Go to [the PlantShelf repository](https://github.com/S-Mangan/plantshelf), click Fork, and accept all the defaults.  
+![Screenshot of making a fork](/documentation/github_fork.png "Screenshot of making a fork")
 
 ## **⯈Part B** CSS
 - [ ] **TODO** variables... try changing  
 - [ ] **TODO** rem  
 - [ ] **TODO** flex... flex-direction: column vs row    
 - [ ] **TODO** grid... try changing gap,  grid-template-columns  
-- [ ] **TODO** psuedo classes and transitions  
-- [ ] **TODO** 
+- [ ] **TODO** psuedo classes and transitions
 
 ## [optional] Card flipping extension
 * In  index.html, uncomment all the `<div class="back side">` sections.  
