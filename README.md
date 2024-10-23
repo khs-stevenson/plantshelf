@@ -21,7 +21,7 @@ GitHub is a website which stores files—all their past versions. The files for 
 - [ ] Go to [the PlantShelf repository](https://github.com/S-Mangan/plantshelf), click Fork, and accept all the defaults.  
 ![Screenshot of making a fork](/documentation/github_fork.png "Screenshot of making a fork")
 
-- [ ] Now that you have your own copy, try making a small change to its README:  
+- [ ] Now that you have your own copy, try making a very small change to its README:  
 ![Screenshot of editing the README](/documentation/github_edit.png "Screenshot of editing the README")   
 
 - [ ] When you click Commit Changes, you can write a short message about your change. Make it something descriptive that will help you remember what you changed later (e.g. "added my name to README heading")
