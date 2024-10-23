@@ -5,11 +5,11 @@ In these 2 lessons, you will:
 * Explore and modify the structure (HTML) and style (CSS) of PlantShelf.  
 * Learn to use GitHub and git to back up and version-control your code.  
 
-![Plant image cards on the PlantShelf webpage](/documentation/plantshelf.png "Plant image cards (left), and the image cards again with one flipped to show the back (right)")
+![Plant image cards on the PlantShelf webpage](/documentation/plantshelf.png "Plant image cards (left), and the image cards again with one flipped to show the back (right)")   
 *LEFT: Plant image cards*  
 *RIGHT: Plant image cards, with one flipped to show the back*
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ## **⯈Part A** GitHub and HTML
 ### GitHub │ Forking a repository
@@ -48,7 +48,9 @@ Find the index.html file in the tree folder (View > Open View... Folders), and t
 Modify the HTML and refresh your browser to see how the website changes:  
    - [ ] Update the GitHub link in the footer to point to your fork.  
    - [ ] Replace some of the card images (see the images folder), and update the card headings to match.  
-   - [ ] Change the main website heading  
+   - [ ] Change the main website heading
+
+<br/><br/><br/><br/>
 
 ## **⯈Part B** git and CSS
 - [ ] CSS variables  
